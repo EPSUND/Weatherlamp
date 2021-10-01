@@ -1,0 +1,1 @@
+10 * * * * /home/pi/python/HueToggleWeatherLamps.py >> /home/pi/python/cron.log 
